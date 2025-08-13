@@ -1,3 +1,3 @@
 # PAGES
 
-- GLOSSARY
+- [GLOSSARY](glossary.md)
